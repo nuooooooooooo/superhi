@@ -6,7 +6,7 @@ const circleTag = document.querySelector(".circle");
 const bodyTag = document.querySelector("body");
 const pages = [
   {
-    copy: "a Brussels-based singer/songwriter",
+    copy: "a Brussels-based singer / songwriter",
     background: "#edc7a9",
     circle: "#3e78ed",
   },
